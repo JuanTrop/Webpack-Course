@@ -1,6 +1,6 @@
 import Template from '@templates/Template.js';
 import '@styles/main.css';
-console.log("hello");
+console.log("@styles");
 
 (async function App() {
   const main = null || document.getElementById('main');
